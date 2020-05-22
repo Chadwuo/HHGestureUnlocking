@@ -237,7 +237,7 @@ namespace HHGestureUnlocking
                     if (PasswordStr == UnlockPassword)
                     {
                         //解锁成功
-                        lblMsg.Text = string.Format("超哥流弊");
+                        lblMsg.Text = string.Format("解锁成功");
                     }
                     else
                     {
