@@ -5,9 +5,7 @@ HHGestureUnlocking 是实现手势解锁、九宫格输入密码功能的.NET桌
 界面简约，使用简单。为经典winform程序提供漂亮的滑动手势输入密码界面。
 
 ## 示例图片
-![示例](https://github.com/micahh28/HHGestureUnlocking/blob/master/HHGestureUnlocking/image/demo1.png "示例")  
-
-![示例](https://github.com/micahh28/HHGestureUnlocking/blob/master/HHGestureUnlocking/image/demo2.png "示例")  
-
-![示例](https://github.com/micahh28/HHGestureUnlocking/blob/master/HHGestureUnlocking/image/demo3.png "示例")  
+<img src="HHGestureUnlocking/image/demo1.png">
+<img src="HHGestureUnlocking/image/demo2.png">
+<img src="HHGestureUnlocking/image/demo3.png">
 
